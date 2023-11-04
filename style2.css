@@ -1,0 +1,9 @@
+body {
+    background: url(титул.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    display: flex;
+    background-attachment: fixed;
+    background-position: center center;
+}
